@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+lib/
+
+# Build artifacts
+artifacts/
+cache/
+out/
+broadcast/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hardhat
+coverage/
+typechain/
+typechain-types/
+
+# Foundry
+cache_hardhat/

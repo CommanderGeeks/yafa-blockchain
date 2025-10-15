@@ -1,0 +1,6 @@
+[submodule "yafa-contracts/lib/forge-std"]
+	path = yafa-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "yafa-contracts/lib/openzeppelin-contracts"]
+	path = yafa-contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
